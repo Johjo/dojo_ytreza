@@ -2,13 +2,13 @@
 
 ## 🎯 Notre Mission
 
-Ytreza.dev est un dojo dédié à la pratique et à l'apprentissage du développement logiciel, où nous transformons la théorie en compétences concrètes grâce à des méthodes et pratiques modernes.
+Le dojo Ytreza.dev est un lieu (virtuel) dédié à la pratique et à l'apprentissage du développement logiciel, où nous transformons la théorie en compétences concrètes grâce à des méthodes et pratiques modernes.
 
 ## 🌟 Principes Fondamentaux
 
 - **Apprentissage Guidé** : Nous croyons que chaque développeur·se a un potentiel unique. Notre accompagnement personnalisé vous permet de progresser de manière ciblée et efficace, en identifiant et renforçant vos compétences.
 
-- **Prix Libre et Solidaire** : Nous cassons les barrières financières traditionnelles. Votre participation est basée sur votre capacité et votre volonté de contribuer, rendant l'apprentissage accessible à toutes et tous.
+- **Prix Libre et Solidaire** : Nous cassons les barrières financières traditionnelles. Votre participation est basée sur votre capacité et votre volonté de contribuer, rendant l'apprentissage accessible à toutes et tous. [En savoir plus sur notre modèle de prix libre](/PRICING.md)
 
 - **Montée en Compétences** : Notre focus est de vous aider à devenir un·e développeur·se complet·e, en vous concentrant sur des pratiques de développement qui font la différence dans la qualité logicielle.
 
