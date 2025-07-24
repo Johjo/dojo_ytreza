@@ -30,7 +30,7 @@ Nous investissons dans votre potentiel, vous nous rendez la pareille quand vous 
 
 Si vous hésitez sur le montant à verser, nous vous recommandons d'utiliser l'outil suivant :
 
-[Outil d'aide au choix du prix libre](https://guesstheprice-33f57vgvp-johjos-projects.vercel.app/)
+[Outil d'aide au choix du prix libre](https://guesstheprice-nine.vercel.app/)
 
 Suivez votre ressenti, et vous serez en mesure de déterminer votre contribution.
 
