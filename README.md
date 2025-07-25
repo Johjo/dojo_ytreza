@@ -38,9 +38,9 @@ Nous ne proposons pas un simple cours, mais une expérience d'apprentissage imme
 
 Pour rejoindre notre dojo et commencer votre parcours d'apprentissage, suivez ces étapes :
 
-1. **Rejoindre notre Discord** : Connectez-vous à notre serveur Discord (lien à venir). C'est votre point d'entrée pour toutes les interactions et opportunités d'apprentissage.
+1. **Rejoindre notre Discord** : [Connectez-vous à notre serveur Discord](https://discord.gg/rnXkTejqKw). C'est votre point d'entrée pour toutes les interactions et opportunités d'apprentissage.
 
-2. **Installer mob.sh** : Téléchargez et installez mob.sh depuis le site officiel (mob.sh). Cet outil est essentiel pour nos sessions de programmation collaborative.
+2. **Installer mob.sh** : [Téléchargez et installez mob.sh depuis le site officiel](https://mob.sh). Cet outil est essentiel pour nos sessions de programmation collaborative.
 
 3. **Se Présenter** : Une fois connecté·e sur Discord, rendez-vous dans le canal #présentation. Présentez-vous brièvement : qui êtes-vous, votre parcours en développement, et ce que vous espérez apprendre dans notre dojo.
 
